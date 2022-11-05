@@ -1,7 +1,7 @@
 ## :memo: Descrição
 Esse projeto tem como finalidade detalhar por forma de documentação a criação de uma de API de Checklist de Loja. 
 O processo de checklist realizado em lojas hoje, ocorre de forma manuscrita e consequentemente há problemas como a perda de informações, dificuldade de visualizar o histórico, armazenamento de avaliações, além da dificuldade de visualizar estas informações de forma mais dinâmica.     
-Por isso a importância da implementação desta aplicação. 
+Por isso a importância da implementação dessa aplicação. 
 
 ## :books: Documentação
 Na pasta documentação encontrata-se os seguintes documentos:
@@ -11,9 +11,11 @@ Na pasta documentação encontrata-se os seguintes documentos:
 4. Etapas para o Deploy
 
 ## :handshake: Colaboradores
-Alana
-Ana Raquel
+Alana @alana-as
+Ana Raquel @AnaHermes
 Anderson
-Michael
-Damião
+Michael @MichaelNunes-92
+Damião @DamiaoN
+
+
 
