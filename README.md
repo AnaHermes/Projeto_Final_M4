@@ -4,18 +4,18 @@ O processo de checklist realizado em lojas hoje, ocorre de forma manuscrita e co
 Por isso a importância da implementação dessa aplicação. 
 
 ## :books: Documentação
-Na pasta documentação encontrata-se os seguintes documentos:
-1. Levantamento de Requisitos e Modelages de processos 
-2. Documentação da API 
-3. Modelagem do banco de dados e implementação
-4. Etapas para o Deploy
+Na pasta documentação encontratam-se os seguintes documentos:
+1. Levantamento de Requisitos e Modelages de processos; 
+2. Documentação da API; 
+3. Modelagem do banco de dados e implementação;
+4. Etapas para o Deploy.
 
 ## :handshake: Colaboradores
-Alana @alana-as
-Ana Raquel @AnaHermes
-Anderson
-Michael @MichaelNunes-92
-Damião @DamiaoN
+Alana @alana-as </br>
+Ana Raquel @AnaHermes </br>
+Anderson </br>
+Michael @MichaelNunes-92 </br>
+Damião @DamiaoN </br>
 
 
 
