@@ -4,11 +4,12 @@ O processo de checklist realizado em lojas hoje, ocorre de forma manuscrita e co
 Por isso a importância da implementação dessa aplicação. 
 
 ## :books: Documentação
-Na pasta documentação encontratam-se os seguintes documentos:
+Na pasta documentação encontratam-se os seguintes documentos que são necessários para implantação da API:
 1. Levantamento de Requisitos e Modelages de processos; 
 2. Documentação da API; 
 3. Modelagem do banco de dados e implementação;
-4. Etapas para o Deploy.
+4. Segurança da API | Autenticação;
+5. Etapas para o Deploy.
 
 ## :handshake: Colaboradores
 Alana @alana-as </br>
