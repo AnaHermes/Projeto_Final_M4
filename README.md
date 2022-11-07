@@ -14,7 +14,7 @@ Na pasta documentação encontratam-se os seguintes documentos que são necessá
 ## :handshake: Colaboradores
 Alana @alana-as </br>
 Ana Raquel @AnaHermes </br>
-Anderson </br>
+Anderson @andersondiego-araujo </br>
 Damião @DamiaoN </br>
 Michael @MichaelNunes-92 </br>
 
